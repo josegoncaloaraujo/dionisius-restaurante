@@ -92,6 +92,18 @@ section#galeria {
     padding: 0 27px 0 27px;
 }
 
+article#video {
+    float: left;
+    width: 310px;
+    margin-left: 25px;
+}
+
+article#mapa {
+    float: left;
+    width: 310px;
+    margin-left: 37px;
+}
+
 section#galeria img {
     margin-left: 2px;
     margin-top: 3px;
@@ -99,9 +111,9 @@ section#galeria img {
 
 h3 {
     color: #86521a;
-    text-transform:uppercase;
-    padding-bottom: 3px;
-    margin-bottom: 0;
+    font-size: 1.0em;
+    margin-bottom: 15px;
+    text-transform: uppercase;
 }
 
 input {
